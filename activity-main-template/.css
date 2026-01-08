@@ -1,0 +1,51 @@
+a {
+  color:#2176FF;
+  cursor: pointer;
+}
+
+a:hover {
+  text-decoration: none;
+  font-weight: 900;
+}
+
+.nav-link {
+  text-decoration: none;
+}
+
+.nav-link:hover {
+  color: #5495ff
+}
+
+.btn {
+  font-family: "Raleway", sans-serif;
+  background-color: #21a3ff;
+  font-size: 16px;
+  color: #ffffff;
+  border-radius: 2px;
+  font-weight: 400px;
+  padding: 14px;
+  text-decoration: none;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #fff;
+  color: #2176FF;
+  transition: color .1s ease-in, background-color .1s ease-in;
+}
+
+.btn:active {
+  font-size: 18px;
+  transition: font-size 0.1s ease-in-out;
+}
+
+.activity:hover {
+  box-shadow: 4px 8px  3px #21ecff; 
+  transform: translateY(-2px);
+}
+
+.activity:active {
+  box-shadow: 0px 0px #21ecff;
+  transform: translateY(2px); 
+}
