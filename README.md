@@ -1,2 +1,2 @@
 # Small-Projects
-This is demonstrate the small project that I didn’t for learning full stack development 
+This is demonstrate the small project that I did for learning full stack development 
